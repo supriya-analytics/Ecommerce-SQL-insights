@@ -55,6 +55,3 @@ This table contains category and sub-category information.
 3. **West region** has the highest sales but lower profit due to shipping costs.  
 4. **High profit categories** are Technology and Office Supplies.  
 5. **Discounts and returns** affect profit even when sales are high.
-
-## Project Structure
-
